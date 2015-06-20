@@ -1,0 +1,110 @@
+
+/* basic elements */
+@import url(../_fonts/brushstroke/stylesheet.css);
+@import url(../_fonts/topsecret/stylesheet.css);
+
+body { 
+	font: 11px/15px georgia, serif;
+	text-align: center;
+	margin: 0px;
+
+	background-color: #a64f1c;
+
+	font-family: 'webfontregular', serif;
+	}
+
+.OurStory{
+	/*font-family: 'top_secretbold';*/
+	font-size: 60px;
+	color: #fff;
+	background-color: red;
+}
+
+.OurStory h1 {
+	font-family: 'top_secretbold';
+	font-size: 60px;
+	color: #fff;
+}
+
+p{
+	color: #ffb30f;
+}
+#BBQ-wrapper {
+	
+	background-image: url('darkwood-plankFlooring.jpg');
+    background-repeat: repeat-x;
+    background-color: #a64f1c;
+}
+
+nav {
+	background-color: rgba(76, 45, 2, 0.77);
+
+	border-radius: 15px 0px 15px 0px;
+
+	/*height: 100px;*/
+	width: 800px;
+	margin: auto;
+	margin-top: 20px;
+
+	font-family: 'webfontregular', serif;
+    font-size: 40px;
+
+    display: inline-block;
+    color: #fff;
+}
+#search {
+	display: inline-block;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+	margin: auto;
+}
+
+#midLogo {
+    text-align: center;
+
+}
+.inset {
+	width:90%;
+	max-width:1000px;
+	margin:0px auto;
+	padding:25px 0px;
+}
+#button {
+	width:90%;
+	max-width:1000px;
+	margin:0px auto;
+	padding:25px 25px;
+	/*font-size: 50px;*/
+
+}
+
+#glyphicon{
+	font-size: 20px;
+}
+
+#slideshow {
+	background-color: rgba(0,0,0,0.3);
+	box-shadow: -2px 5px 5px 5px #000000;
+	height: 600px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#carousel-example-generic{
+width: 960px;
+margin-left: -30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+

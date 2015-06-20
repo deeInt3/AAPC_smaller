@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'webfontregular';
+    src: url('BRUSHSTP-webfont.eot');
+    src: url('BRUSHSTP-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BRUSHSTP-webfont.woff') format('woff'),
+         url('BRUSHSTP-webfont.ttf') format('truetype'),
+         url('BRUSHSTP-webfont.svg#webfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'hominisnormal';
+    src: url('HOMINIS-webfont.eot');
+    src: url('HOMINIS-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HOMINIS-webfont.woff') format('woff'),
+         url('HOMINIS-webfont.ttf') format('truetype'),
+         url('HOMINIS-webfont.svg#hominisnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'top_secretbold';
+    src: url('Top_Secret-webfont.eot');
+    src: url('Top_Secret-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Top_Secret-webfont.woff') format('woff'),
+         url('Top_Secret-webfont.ttf') format('truetype'),
+         url('Top_Secret-webfont.svg#top_secretbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
